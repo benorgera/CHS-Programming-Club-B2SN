@@ -1,0 +1,29 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	font-size: 38px;
+	font-family: 'Helvetica';
+}
+
+#title {
+	text-align: center;
+}
+
+nav {
+	background-color: "red";
+	width: 200px;
+	border-radius: 5px;
+	height: 200px; 
+	margin: auto;
+}
+
+nav ul li {
+	list-style-type: none;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: black;
+	font-size: 12px !important;
+}
